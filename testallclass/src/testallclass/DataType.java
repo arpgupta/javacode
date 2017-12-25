@@ -5,6 +5,15 @@ public class DataType {
 	public static void main(String arg[]){
 		
 		
+		
+		
+	//byte	2^7 to -2^7-1
+		//short	2^15 to -2^15-1
+		//int	2^31 to -2^31-1
+		//long	2^63 to -2^63-1
+		
+		
+		
 		byte by=1;
 		System.out.println(by);
 		by=127;
