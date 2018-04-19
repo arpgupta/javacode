@@ -22,10 +22,8 @@ public class New1 {
 		{
 			if(a[i]==x)
 			{
-				
 				System.out.println("index"+(i+1));
 			}
-			
 		}
 			 
 	}

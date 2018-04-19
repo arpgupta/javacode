@@ -14,8 +14,6 @@ public class TypeCasting {
 	 int chtoint=ch;
 	 String s="abc";
 	  chtoint=(int)ch;
-	  
-	  
 	 System.out.println(i);
 	 System.out.println(by);
 	 System.out.println(sh);
